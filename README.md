@@ -4,4 +4,4 @@ Thanks for stopping by. My name is Rob and I work at GitHub. Previously, I worke
 
 I live in Arvada, Colorado with my puppy, Penny :dog:
 
-![Penny, the English bulldo](IMG_1123.jpg)
+![Penny, the English bulldo](https://github.com/rob-derosa/rob-derosa/blob/master/IMG_1123.jpg?raw=true)
