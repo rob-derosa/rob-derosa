@@ -9,5 +9,4 @@ Interests include:
 * :helicopter: Droning
 
 I live in Arvada, Colorado with my puppy, Penny :dog:
-https://github.com/rob-derosa/rob-derosa/issues
 ![Penny, the English bulldog](https://github.com/rob-derosa/rob-derosa/blob/main/penny.jpg?raw=true)
