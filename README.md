@@ -10,4 +10,4 @@ Interests include:
 
 I live in Arvada, Colorado with my puppy, Penny :dog:
 
-![Penny, the English bulldo](https://github.com/rob-derosa/rob-derosa/blob/master/IMG_1123.jpg?raw=true)
+![Penny, the English bulldog](penny.jpg?raw=true)
