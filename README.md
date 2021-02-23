@@ -12,4 +12,4 @@ Not to be controversial, but tabs > spaces and dark mode.
 
 I live in Arvada, Colorado with my puppy, Penny :dog:
 
-![Penny, the English bulldog](https://github.com/rob-derosa/rob-derosa/blob/main/penny.jpg?raw=true)
+![Penny, the English bulldog](https://github.com/rob-derosa/rob-derosa/blob/main/penny_dreams_bone.jpg?raw=true)
