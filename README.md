@@ -8,7 +8,7 @@ Interests include:
 * :snowboarder: Snowboarding
 * :helicopter: Droning
 
-Not to be controversial, but tabs > spaces and dark mode. Copilot enthusiast.
+Not to be controversial, but tabs > spaces and dark mode. [Copilot enthusiast](https://github.com/features/copilot).
 
 I live in Arvada, Colorado with my puppy, Penny :dog:
 
